@@ -7,10 +7,10 @@ Developing transparent, secure, and effective AI systems that serve the public i
 
 ## 🎯 Featured Concepts
 
-### NHS Digital Therapy Assistant
-**Problem:** 25% of children wait over 18 weeks for occupational therapy assessment in the UK  
-**Solution:** Open-source conversational AI for initial self-assessment and guidance  
-**Status:** Concept ready for pilot implementation  
+### Integrated Care Assessment AI
+**Problem:** Fragmented assessment processes between NHS and local authority services create delays and gaps  
+**Solution:** Open-source AI system supporting assessment across health and social care boundaries  
+**Status:** Concept based on direct cross-system experience  
 
 [→ Detailed Technical Proposal](./nhs-digital-therapy/README.md)
 
